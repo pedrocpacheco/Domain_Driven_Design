@@ -2,9 +2,9 @@ package aula3.calculadora;
 
 public class Calculadora {
 	
-	public double number1;
-	public double number2;
-	public double result;
+	private double number1;
+	private double number2;
+	private double result;
 	
 	// Getters e Setters
 	public double getNumber1(){
