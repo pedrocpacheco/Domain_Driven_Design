@@ -4,7 +4,7 @@ public class Calculadora {
 	
 	private double number1;
 	private double number2;
-	private double result;
+	public double result;
 	
 	// Getters e Setters
 	public double getNumber1(){
