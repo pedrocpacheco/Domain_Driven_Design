@@ -1,4 +1,4 @@
-package aula3.calculadora;
+package aula4.calculadora;
 
 import java.util.Scanner;
 
@@ -25,18 +25,18 @@ public class TesteCalculadora {
 		sc.close();
 		
 		
-		// Fazendo as operações matematicas
-		System.out.println("Operações Matematicas");
+		// Fazendo as operaï¿½ï¿½es matematicas
+		System.out.println("Operaï¿½ï¿½es Matematicas");
 		System.out.println("Soma");
 		System.out.println(calculadora.add(calculadora.getNumber1(), calculadora.getNumber2()));
 		
-		System.out.println("Subtração");
+		System.out.println("Subtraï¿½ï¿½o");
 		System.out.println(calculadora.sub(calculadora.getNumber1(), calculadora.getNumber2()));
 		
-		System.out.println("Multiplicação");
+		System.out.println("Multiplicaï¿½ï¿½o");
 		System.out.println(calculadora.mult(calculadora.getNumber1(), calculadora.getNumber2()));
 		
-		System.out.println("Divisão");
+		System.out.println("Divisï¿½o");
 		System.out.println(calculadora.div(calculadora.getNumber1(), calculadora.getNumber2()));
 		
 	}
