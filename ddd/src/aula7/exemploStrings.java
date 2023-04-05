@@ -7,6 +7,10 @@ public class exemploStrings {
 	public static void main(String[] args) {
 		
 	Scanner cc = new Scanner(System.in);
+	String faculdade = cc.next();
+
+	
+	
 		
 		
 	}
